@@ -63,7 +63,7 @@ const himanshu = {
 
 ## 🎯 Current Focus
 
-- 🎓 **cContributing to EKA**
+- 🎓 **Contributing to EKA**
 - 🔭 Working on: **Large Language Models (LLMs) and AI Projects**
 - 🌱 Learning: **LLM Fine-tuning, Prompt Engineering, and NLP**
 - 👯 Looking to collaborate on: **AI/ML and Open Source Projects**
