@@ -58,7 +58,7 @@ const himanshu = {
 </p>
 
 <p align="center">
-  <img width="80%" src="https://github-readme-activity-graph.vercel.app/graph?username=Himanshu-771&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
+  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=Himanshu-771&theme=tokyo-night&hide_border=false" alt="Contribution Graph" />
 </p>
 
 ## 🎯 Current Focus
