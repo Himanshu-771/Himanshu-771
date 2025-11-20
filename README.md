@@ -18,7 +18,7 @@
 
 ```javascript
 const himanshu = {
-    location: "Srinagar, Jammu and Kashmir, IN",
+    location: "Kathua, Jammu and Kashmir, IN",
     education: "4th Year B.Tech in Computer Science",
     currentFocus: ["Large Language Models (LLMs)", "AI/ML", "NLP"],
     interests: ["Artificial Intelligence", "Software Development", "Web Technologies"],
