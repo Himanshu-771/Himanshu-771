@@ -54,7 +54,9 @@ const himanshu = {
 </p>
 
 <p align="center">
-  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=Himanshu-771&theme=tokyonight" alt="GitHub Streak" />
+  <a href="https://github.com/Himanshu-771">
+    <img src="https://github-readme-stats.vercel.app/api?username=Himanshu-771&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&rank_icon=github" alt="GitHub Stats"/>
+  </a>
 </p>
 
 <p align="center">
