@@ -1,7 +1,7 @@
 # Hi there, I'm Himanshu 👋⚡
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E97F7&center=true&vCenter=true&width=435&lines=4th+Year+B.Tech+Student;LLM+Developer;AI+%26+ML+Enthusiast;Building+the+Future+with+AI" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E97F7&center=true&vCenter=true&width=435&lines=B.Tech+Student;LLM+Developer;AI+%26+ML+Enthusiast;Building+the+Future+with+AI" alt="Typing SVG" />
 </div>
 
 ## 📫 Connect With Me
