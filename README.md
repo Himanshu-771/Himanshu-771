@@ -19,7 +19,7 @@
 ```javascript
 const himanshu = {
     location: "Kathua, Jammu and Kashmir, IN",
-    education: "4th Year B.Tech in Computer Science",
+    education: "B.Tech in Computer Science",
     currentFocus: ["Large Language Models (LLMs)", "AI/ML", "NLP"],
     interests: ["Artificial Intelligence", "Software Development", "Web Technologies"],
     learningGoals: ["Advanced LLM Fine-tuning", "Deep Learning", "AI Applications"],
